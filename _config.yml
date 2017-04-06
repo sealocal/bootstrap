@@ -35,8 +35,8 @@ repo:             https://github.com/sealocal/bootstrap
 slack:            https://bootstrap-slack.herokuapp.com
 
 download:
-  source:         https://github.com/sealocal/bootstrap/archive/v4.0.0-alpha.6.zip
-  dist:           https://github.com/sealocal/bootstrap/releases/download/v4.0.0-alpha.6/bootstrap-4.0.0-alpha.6-dist.zip
+  source:         https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.6.zip
+  dist:           https://github.com/twbs/bootstrap/releases/download/v4.0.0-alpha.6/bootstrap-4.0.0-alpha.6-dist.zip
 
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes
